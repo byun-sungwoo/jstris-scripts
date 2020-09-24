@@ -198,7 +198,7 @@ if(typeof Game != "undefined"){
 
 
 var songsMP = [
-"https://ecdldaiiere.github.io/Eddiez-Soundz/animalsong1.wav",
+"https://byun-sungwoo.github.io/audio/animalsong1loop.wav",
 "https://ecdldaiiere.github.io/Eddiez-Soundz/animalsong2.wav",
 "https://ecdldaiiere.github.io/Eddiez-Soundz/animalsong3.wav"
 ]
